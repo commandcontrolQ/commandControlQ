@@ -1,16 +1,15 @@
-## Hi there 👋
+## hallo
+welcome to my github account
 
-<!--
-**commandcontrolQ/commandControlQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i am also known as kooper, dskooper or kooperds unless otherwise stated
 
-Here are some ideas to get you started:
+## where
+- i have a neocities webpage (it looks like shit) (it is [here](https://kooper.neocities.org))
+- **cobalt487** on the [steam engine](https://steamcommunity.com/id/cobalt487/)
+- dskooper on the discord
+- [kooperds](https://twitch.tv/kooperds) on the twitch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## what
+I mainly code in Python, although I am considering learning some form of C
+
+I try to maintain my forks as much as I can
